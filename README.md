@@ -2,10 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseok%20Cheon&fontSize=90)
 
-hello world! 
-I'm Junseok Cheon who major in Computer Science and is interested in Machine Learning from South Korea.
-If you want to contact me, please leave me a message and email!
-I appreciate it
+hello world!   
+I'm Junseok Cheon who major in Computer Science and is interested in Machine Learning from South Korea.   
+If you want to contact me, please leave me a message and email!   
+I appreciate it   
 
 <h3 = align="center">★  Tech  Stack  ★</h3>
 <h4 = align="center">Techs that I can handle skillfully</h4>
