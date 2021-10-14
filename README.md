@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseok%20Cheon&fontSize=90)
 
-hello world!   
+Hello world!   
 I'm Junseok Cheon who major in Computer Science and is interested in Machine Learning from South Korea.   
 If you want to contact me, please leave me a message and email!   
 I appreciate it   
@@ -33,4 +33,11 @@ I appreciate it
 
 
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunSeokCheon)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goosw75)](https://solved.ac/goosw75/)
 
