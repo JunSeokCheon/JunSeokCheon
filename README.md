@@ -32,16 +32,19 @@ I appreciate it
 </p>
 
 
-<h4 = align="center">Contact ME!</h4>
+<h4 = align="center">How to contact ME!</h4>
 <p align="center">
  <a href="https://wnstjrdl.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://wnstjrdl.tistory.com/"/></a>&nbsp
+ <a href="https://wnstjrdl.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://wnstjrdl.tistory.com/"/></a>&nbsp
+ <a href="https://github.com/JunSeokCheon"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white&link=https://github.com/JunSeokCheon"/></a>&nbsp
 </p>
 
 
-
+<h3 = align="left">Github stats</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunSeokCheon)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 = align="left">Solved.ac for baekjoon</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goosw75)](https://solved.ac/goosw75/)
 
