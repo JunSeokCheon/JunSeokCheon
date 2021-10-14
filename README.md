@@ -32,6 +32,10 @@ I appreciate it
 </p>
 
 
+<h4 = align="center">Contact ME!</h4>
+<p align="center">
+ <a href="https://wnstjrdl.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://wnstjrdl.tistory.com/"/></a>&nbsp
+</p>
 
 
 
