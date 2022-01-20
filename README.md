@@ -39,12 +39,16 @@ I appreciate it
  <a href="https://github.com/JunSeokCheon"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Blogger&logoColor=white&link=https://github.com/JunSeokCheon"/></a>&nbsp
 </p>
 
+<div align=center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunSeokCheon&layout=compact&theme=dracula)](https://github.com/metleeha)
 
-<h3 = align="left">Github stats</h3>
+
+<h3 = align="center">Github stats</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunSeokCheon)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 = align="left">Solved.ac for baekjoon</h3>
+<h3 = align="center">Solved.ac for baekjoon</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goosw75)](https://solved.ac/goosw75/)
-
+</div>
