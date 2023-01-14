@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Junseok%20Cheon&fontSize=70)
 
 Hello world!   
-I'm Junseok Cheon who major in Computer Science and is interested in Data Analysis from South Korea.   
+I'm Junseok Cheon who major in Computer Science and is interested in Data Analysis & Data Scientist from South Korea.   
 If you want to contact me, please leave me a message and email!   
 I appreciate it   
 
